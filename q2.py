@@ -68,4 +68,4 @@ for i in range(1, int(numdays) + 1):
 #   Total amount saved = $<Z>
 # ============================================================
 
-print(total)
+print("total amount saved = $"+str(total))
