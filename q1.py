@@ -50,4 +50,4 @@ firstresult = int(totalbill) / int(numppl)
 #   Each person pays: $<amount>
 #   Rounded to 2 decimal places
 # ============================================================
-print("each person pays $"+ str(round(finalresult,2))
+print("each person pays $"+ str(round(firstresult,2)))
