@@ -28,7 +28,7 @@ planets=["mercury","venus","earth","mars","jupiter","saturn","uranus"]
   #     - Comment after testing
   # ============================================================
   
-print(planets[3])
+print(planets[2])
   
   # ============================================================
   # Step 3: Append "neptune"
